@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/retexpos/static/css/main.f86afff7.css",
+    "main.js": "/retexpos/static/js/main.23009dcb.js",
+    "static/media/dessert3.jpg": "/retexpos/static/media/dessert3.5ec7d2a0c19209e95dfe.jpg",
+    "static/media/dessert7.jpg": "/retexpos/static/media/dessert7.66b88013b132443ecd89.jpg",
+    "static/media/dessert5.jpg": "/retexpos/static/media/dessert5.c7a81cb460ba56c426cb.jpg",
+    "static/media/dessert6.jpg": "/retexpos/static/media/dessert6.2d93e28591b917016c40.jpg",
+    "static/media/dessert4.jpg": "/retexpos/static/media/dessert4.a903b02bef61aa96f693.jpg",
+    "static/media/dessert2.jpg": "/retexpos/static/media/dessert2.c055e05c19c2a9147898.jpg",
+    "index.html": "/retexpos/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f86afff7.css",
+    "static/js/main.23009dcb.js"
+  ]
+}
