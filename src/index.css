@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.res-font {
+  font-size: clamp(1.5rem, 2.5vw + 0.5rem, 8rem);
+}
+.res-font-sm {
+  font-size: clamp(0.5rem, 1vw + 0.5rem, 4rem);
+}
+.res-font-usm {
+  font-size: clamp(0.5rem, 0.7vw + 0.5rem, 4rem);
+}
